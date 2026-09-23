@@ -22,5 +22,11 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
+rootProject.name = "My Calculator"
+include(":app")
+ 
+=======
 rootProject.name = "My first App"
 include(":app")
+>>>>>>> d870e9cde8f0ac0965d1ef7438d45bc0971dff64
